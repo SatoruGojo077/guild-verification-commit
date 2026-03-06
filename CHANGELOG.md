@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-10-31T11:04:08.353Z
-Commit: Patch security vulnerability in authentication
+Timestamp: 2026-03-06T11:38:16.899Z
+Commit: Fix broken links in documentation
